@@ -55,7 +55,7 @@ body::before{
 
 @media (max-width: 768px) {
     body {
-        font-size: 0.5rem;
+        font-size: 0.6rem;
     }
 }
 @media (min-width: 1024px) {
@@ -73,7 +73,7 @@ body::before{
 }
 
 ul {
-    border: solid rgb(3, 219, 226) 5px;
+    border: solid lightblue 3px;
     border-radius: 5px;
     padding: 5px;
     background-color: rgba(0, 0, 0, 0.5);
