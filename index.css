@@ -55,7 +55,7 @@ body::before{
 
 @media (max-width: 768px) {
     body {
-        font-size: 0.6rem;
+        font-size: 0.7rem;
     }
 }
 @media (min-width: 1024px) {
@@ -76,14 +76,14 @@ ul {
     border: solid white 1px;
     border-radius: 5px;
     padding: 5px;
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(255, 255, 255, 0.2);
 }
 
 .pie {
     height: 10%;
     font-family: sans-serif;
     text-align: center;
-    color: lightblue;
+    color: white;
 }
 
 .iconos {
