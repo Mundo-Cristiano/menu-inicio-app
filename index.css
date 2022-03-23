@@ -73,17 +73,17 @@ body::before{
 }
 
 ul {
-    border: solid lightblue 3px;
+    border: solid white 1px;
     border-radius: 5px;
     padding: 5px;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(255, 255, 255, 0.1);
 }
 
 .pie {
     height: 10%;
     font-family: sans-serif;
     text-align: center;
-    color: white;
+    color: lightblue;
 }
 
 .iconos {
