@@ -76,7 +76,7 @@ ul {
     border: solid white 1px;
     border-radius: 5px;
     padding: 5px;
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 .pie {
@@ -87,20 +87,20 @@ ul {
 }
 
 .iconos {
-    width: 100px;
-    height: 100px;
+    width: 196px;
+    height: 196px;
 }
 
 @media (max-width: 768px) {
     .iconos {
-        width:100px;
-        height: 100px;
+        width: 146px;
+        height: 146px;
     }
 }
 
 @media (min-width: 1024px) {
     .iconos {
-        width: 100px;
-        height: 100px;
+        width: 246px;
+        height: 246px;
     }
 }
